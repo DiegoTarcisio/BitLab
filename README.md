@@ -1,12 +1,19 @@
 <p align="center">
-  <!-- Substitua pelo link de um banner do seu projeto ou foto de oficina/equipe -->
-  <img src="https://via.placeholder.com/1000x320/1F222E/F85D7F?text=PROJETO+DE+EXTENS%C3%83O+-+UFOP+ICEA" alt="Banner Extensão UFOP" width="100%"/>
+  <!-- Logo oficial do BitLab (imagem da conta do GitHub) -->
+  <a href="https://github.com/bitlabufop">
+    <img src="https://github.com/bitlabufop.png" width="150px" alt="Logo BitLab UFOP" style="border-radius: 50%;" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Typing SVG personalizado para Extensão no ICEA / UFOP -->
+  <!-- Banner com texto em verde -->
+  <img src="https://via.placeholder.com/1000x260/1F222E/2EA043?text=PROJETO+DE+EXTENS%C3%83O+-+BITLAB+UFOP" alt="Banner Extensão UFOP" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Typing SVG com texto na cor verde (#2EA043) -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Extens%C3%A3o+Universit%C3%A1ria+UFOP+%7C+ICEA;Rob%C3%B3tica+Educacional+%26+Tecnologia;Engenharia+Aplicada+%C3%A0+Comunidade;Inova%C3%A7%C3%A3o%2C+Fabrica%C3%A7%C3%A3o+3D+%26+Sustentabilidade&font=Fira%20Code&center=true&width=550&height=45&color=F85D7F&vCenter=true&pause=800&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Projeto+de+Extens%C3%A3o+-+BitLab;Universidade+Federal+de+Ouro+Preto+%7C+ICEA;Rob%C3%B3tica+Educacional+%26+Tecnologia;Inova%C3%A7%C3%A3o%2C+Fabrica%C3%A7%C3%A3o+3D+%26+Sustentabilidade&font=Fira%20Code&center=true&width=550&height=45&color=2EA043&vCenter=true&pause=800&size=20" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +22,7 @@
   <img alt="Instituição" src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o-UFOP-800000?style=for-the-badge&logo=institution&logoColor=white"/>
   <img alt="Campus" src="https://img.shields.io/badge/Campus-ICEA%20--%20Jo%C3%A3o%20Monlevade-004D73?style=for-the-badge"/>
   <img alt="Modalidade" src="https://img.shields.io/badge/Programa-Extens%C3%A3o%20Universit%C3%A1ria-success?style=for-the-badge&logoColor=white&color=238636"/>
-  <img alt="Área Temática" src="https://img.shields.io/badge/%C3%81rea-Tecnologia%20%26%20Educa%C3%A7%C3%A3o-F7DF1E?style=for-the-badge&logoColor=black"/>
+  <img alt="Área Temática" src="https://img.shields.io/badge/%C3%81rea-Tecnologia%20%26%20Educa%C3%A7%C3%A3o-2EA043?style=for-the-badge&logoColor=white"/>
 </p>
 
 <br/>
@@ -25,18 +32,18 @@
   <summary><b>🏛️ Sobre o Projeto de Extensão</b></summary><br/>
   
   <p align="justify">
-    Vinculado ao <b>Instituto de Ciências Exatas e Aplicadas (ICEA)</b> da <b>Universidade Federal de Ouro Preto (UFOP)</b>, este programa de extensão tem como missão aproximar a engenharia, a robótica e a tecnologia da comunidade escolar e da sociedade da região de João Monlevade e Médio Piracicaba.
+    O <b>BitLab</b> é um projeto de extensão universitária vinculado ao <b>Instituto de Ciências Exatas e Aplicadas (ICEA)</b> da <b>Universidade Federal de Ouro Preto (UFOP)</b>. Nossa missão é aproximar a engenharia, a robótica, os sistemas embarcados e a fabricação digital da comunidade escolar e da sociedade da região de João Monlevade e Médio Piracicaba.
   </p>
   <p align="justify">
-    O projeto desenvolve protótipos de baixo custo, kits didáticos e soluções sustentáveis (reaproveitamento eletrônico e impressão 3D) para aplicação em oficinas práticas, estimulando o pensamento científico, a lógica e o interesse pelas áreas STEM (Ciência, Tecnologia, Engenharia e Matemática).
+    Desenvolvemos protótipos de baixo custo, kits didáticos e soluções sustentáveis (reaproveitamento eletrônico e impressão 3D) para realização de oficinas práticas, estimulando o pensamento científico e o interesse pelas áreas STEM (Ciência, Tecnologia, Engenharia e Matemática).
   </p>
 
   <h3>🎯 Objetivos e Impacto</h3>
   <ul>
-    <li><b>Democratização Tecnológica:</b> Levar noções de robótica e eletrônica para escolas públicas e projetos sociais.</li>
-    <li><b>Educação Maker & DIY:</b> Capacitar alunos na cultura "faça você mesmo", demonstrando aplicações práticas de física e lógica.</li>
-    <li><b>Sustentabilidade & Upcycling:</b> Demonstrar na prática o reaproveitamento de sucata eletroeletrônica em protótipos funcionais.</li>
-    <li><b>Formação Cidadã:</b> Integrar os discentes de engenharia da UFOP aos desafios e demandas da comunidade externa.</li>
+    <li><b>Democratização Tecnológica:</b> Levar noções de robótica e eletrônica para escolas públicas e projetos comunitários.</li>
+    <li><b>Educação Maker & DIY:</b> Capacitar jovens na cultura "mão na massa", demonstrando aplicações práticas de física, programação e lógica.</li>
+    <li><b>Sustentabilidade & Upcycling:</b> Reaproveitar componentes eletroeletrônicos descartados em novos protótipos funcionais.</li>
+    <li><b>Formação Cidadã:</b> Integrar os discentes da UFOP às demandas e ao desenvolvimento da comunidade local.</li>
   </ul>
 </details>
 
@@ -44,53 +51,27 @@
 
 <!-- ==================== PROJETOS DESENVOLVIDOS ==================== -->
 <details open>
-  <summary><b>🚀 Projetos e Protótipos Desenvolvidos</b></summary><br/>
+  <summary><b>🚀 Projetos e Repositório Central</b></summary><br/>
 
   <p align="center">
-    Acesse a documentação completa, códigos-fonte e esquemáticos de cada protótipo criado pela equipe:
+    Acesse o repositório central do BitLab para conferir os códigos-fonte, modelos 3D, esquemáticos e a documentação completa de todos os protótipos desenvolvidos:
   </p>
 
-  <table align="center" width="100%">
-    <tr>
-      <!-- Card Projeto 1: Garra Robótica -->
-      <td align="center" width="50%" valign="top">
-        <a href="https://github.com/DiegoTarcisio/nome-repo-garra">
-          <img src="https://via.placeholder.com/450x220/1F222E/F85D7F?text=GARRA+ROB%C3%93TICA" alt="Garra Robótica" width="100%" style="border-radius:8px;"/>
-        </a>
-        <br/><br/>
-        <b>🦾 Garra Robótica Articulada</b><br/>
-        <sub>Controle multieixo via servomotores, Arduino e estrutura fabricada em impressão 3D para manipulação de objetos.</sub>
-        <br/><br/>
-        <a href="https://github.com/DiegoTarcisio/nome-repo-garra">
-          <img src="https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      
-      <!-- Card Projeto 2: Lanterna de Manivela -->
-      <td align="center" width="50%" valign="top">
-        <a href="https://github.com/DiegoTarcisio/nome-repo-lanterna">
-          <img src="https://via.placeholder.com/450x220/1F222E/F85D7F?text=LANTERNA+DE+MANIVELA" alt="Lanterna de Manivela" width="100%" style="border-radius:8px;"/>
-        </a>
-        <br/><br/>
-        <b>💡 Lanterna de Manivela Autossustentável</b><br/>
-        <sub>Geração cinética de eletricidade através do reuso de motor de micro-ondas com circuito de retificação e carcaça 3D.</sub>
-        <br/><br/>
-        <a href="https://github.com/DiegoTarcisio/nome-repo-lanterna">
-          <img src="https://img.shields.io/badge/Acessar%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/bitlabufop/BitLab">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio%20BitLab-238636?style=for-the-badge&logo=repo&logoColor=white" alt="Repositório BitLab"/>
+    </a>
+  </p>
 </details>
 
 <br/>
 
 <!-- ==================== CORPO TÉCNICO E INTEGRANTES ==================== -->
 <details open> 
-  <summary><b>👥 Equipe do Projeto de Extensão</b></summary><br/>
+  <summary><b>👥 Equipe do BitLab</b></summary><br/>
   
   <p align="center">
-    Discentes e docentes responsáveis pela idealização, execução técnica e coordenação das atividades:
+    Equipe responsável pela coordenação, desenvolvimento técnico e oficinas de extensão:
   </p>
 
   <table align="center">
@@ -144,8 +125,9 @@
   <h3>🤖 Robótica & Sistemas Embarcados</h3>
   <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="Eletrônica Básica" src="https://img.shields.io/badge/Eletr%C3%B4nica-B%C3%A1sica%20%26%20Pot%C3%AAncia-FF6F00?style=for-the-badge"></a>
+    <a href="#"><img alt="Eletrônica" src="https://img.shields.io/badge/Eletr%C3%B4nica-Pot%C3%AAncia%20%26%20Sinais-FF6F00?style=for-the-badge"></a>
   </p>
 
   <h3>📐 Fabricação Digital & Prototipagem</h3>
@@ -155,7 +137,7 @@
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51000?style=for-the-badge&logo=autodesk&logoColor=white"></a>
   </p>
 
-  <h3>🌱 Sustentabilidade & Reciclagem</h3>
+  <h3>🌱 Sustentabilidade & Upcycling</h3>
   <p>
     <a href="#"><img alt="Upcycling" src="https://img.shields.io/badge/Sustentabilidade-Upcycling%20Eletr%C3%B4nico-238636?style=for-the-badge"></a>
     <a href="#"><img alt="Energia Limpa" src="https://img.shields.io/badge/Energia-Gera%C3%A7%C3%A3o%20Cin%C3%A9tica-yellow?style=for-the-badge"></a>
@@ -169,13 +151,14 @@
   <summary><b>📫 Como Acompanhar ou Participar</b></summary><br/>
 
   <p>
-    Tem interesse em levar as oficinas para sua escola ou participar do projeto como voluntário/bolsista? Entre em contato com a coordenação do projeto no ICEA:
+    Deseja levar as oficinas do BitLab para a sua escola ou colaborar como voluntário? Entre em contato conosco:
   </p>
 
   <ul>
     <li><b>Local:</b> ICEA - Instituto de Ciências Exatas e Aplicadas / UFOP</li>
-    <li><b>Endereço:</b> R. Trinta e Seis, 115 - Loanda, João Monlevade - MG</li>
-    <li><b>E-mail institucional:</b> <a href="mailto:contato.extensao@ufop.edu.br">contato.extensao@ufop.edu.br</a></li>
+    <li><b>Endereço:</b> R. Trinta e Seis, 115 - Loanda, João Monlevade - MG, 35931-008</li>
+    <li><b>E-mail oficial:</b> <a href="mailto:bitlab.ufop@gmail.com">bitlab.ufop@gmail.com</a></li>
+    <li><b>Painel Notion:</b> <a href="https://app.notion.com/p/Dashboard-373805e0285e802c8482ff412c7c70e8?source=copy_link">Acessar Dashboard do BitLab</a></li>
   </ul>
 </details>
 
@@ -184,5 +167,5 @@
 <p align="center">
   <b>Universidade Federal de Ouro Preto — ICEA / Campus João Monlevade</b><br/>
   Pró-Reitoria de Extensão e Cultura (PROEX / UFOP)<br/>
-  Desenvolvido com 💙 pela equipe de extensão.
+  Desenvolvido com 💚 pela equipe do BitLab.
 </p>
