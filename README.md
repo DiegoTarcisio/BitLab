@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Logo oficial do BitLab (imagem da conta do GitHub) -->
   <a href="https://github.com/bitlabufop">
-    <img src="https://github.com/bitlabufop.png" width="150px" alt="Logo BitLab UFOP" style="border-radius: 50%;" />
+    <img src="https://github.com/bitlabufop.png" width="100%" alt="Logo BitLab UFOP" style="border-radius: 50%;" />
   </a>
 </p>
 
