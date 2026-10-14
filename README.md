@@ -1,13 +1,12 @@
 <p align="center">
+  <!-- Banner com texto em verde -->
+  <img src="https://via.placeholder.com/1000x260/1F222E/2EA043?text=PROJETO+DE+EXTENS%C3%83O+-+BITLAB+UFOP" alt="Banner Extensão UFOP" width="100%"/>
+</p>
+<p align="center">
   <!-- Logo oficial do BitLab (imagem da conta do GitHub) -->
   <a href="https://github.com/bitlabufop">
     <img src="https://github.com/bitlabufop.png" width="50%" alt="Logo BitLab UFOP" style="border-radius: 100%;" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Banner com texto em verde -->
-  <img src="https://via.placeholder.com/1000x260/1F222E/2EA043?text=PROJETO+DE+EXTENS%C3%83O+-+BITLAB+UFOP" alt="Banner Extensão UFOP" width="100%"/>
 </p>
 
 <p align="center">
