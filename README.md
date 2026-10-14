@@ -1,28 +1,31 @@
-<p align="center">
-  <!-- Banner com texto em verde -->
-  <img src="https://via.placeholder.com/1000x260/1F222E/2EA043?text=PROJETO+DE+EXTENS%C3%83O+-+BITLAB+UFOP" alt="Banner Extensão UFOP" width="100%"/>
-</p>
-<p align="center">
-  <!-- Logo oficial do BitLab (imagem da conta do GitHub) -->
-  <a href="https://github.com/bitlabufop">
-    <img src="https://github.com/bitlabufop.png" width="50%" alt="Logo BitLab UFOP" style="border-radius: 100%;" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG com texto na cor verde (#2EA043) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Projeto+de+Extens%C3%A3o+-+BitLab;Universidade+Federal+de+Ouro+Preto+%7C+ICEA;Rob%C3%B3tica+Educacional+%26+Tecnologia;Inova%C3%A7%C3%A3o%2C+Fabrica%C3%A7%C3%A3o+3D+%26+Sustentabilidade&font=Fira%20Code&center=true&width=550&height=45&color=2EA043&vCenter=true&pause=800&size=20" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Badges Institucionais e de Projeto -->
-<p align="center">
-  <img alt="Instituição" src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o-UFOP-800000?style=for-the-badge&logo=institution&logoColor=white"/>
-  <img alt="Campus" src="https://img.shields.io/badge/Campus-ICEA%20--%20Jo%C3%A3o%20Monlevade-004D73?style=for-the-badge"/>
-  <img alt="Modalidade" src="https://img.shields.io/badge/Programa-Extens%C3%A3o%20Universit%C3%A1ria-success?style=for-the-badge&logoColor=white&color=238636"/>
-  <img alt="Área Temática" src="https://img.shields.io/badge/%C3%81rea-Tecnologia%20%26%20Educa%C3%A7%C3%A3o-2EA043?style=for-the-badge&logoColor=white"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <!-- Coluna da Esquerda: Logo do BitLab -->
+    <td align="center" valign="middle" width="160px">
+      <a href="https://github.com/bitlabufop">
+        <img src="https://github.com/bitlabufop.png" width="130px" alt="Logo BitLab UFOP" style="border-radius: 50%;" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h1 style="color: #2EA043; margin-bottom: 2px;">
+        ⚡🔬 BitLab — UFOP
+      </h1>
+      <p style="margin-top: 0; margin-bottom: 8px;">
+        <b>Projeto de Extensão Universitária | ICEA - Campus João Monlevade</b>
+      </p>
+      <!-- Typing SVG alinhado à esquerda com texto verde -->
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Rob%C3%B3tica+Educacional+%26+Tecnologia;Engenharia+Aplicada+%C3%A0+Comunidade;Inova%C3%A7%C3%A3o%2C+Fabrica%C3%A7%C3%A3o+3D+%26+Sustentabilidade;Cultura+Maker+no+M%C3%A9dio+Piracicaba&font=Fira%20Code&center=false&width=480&height=35&color=2EA043&vCenter=true&pause=800&size=17" alt="Typing SVG" />
+      </a>
+      <br/>
+      <!-- Badges Rápidos -->
+      <img alt="Instituição" src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o-UFOP-800000?style=flat-square&logo=institution&logoColor=white"/>
+      <img alt="Campus" src="https://img.shields.io/badge/Campus-ICEA-004D73?style=flat-square"/>
+      <img alt="Extensão" src="https://img.shields.io/badge/Programa-Extens%C3%A3o-238636?style=flat-square"/>
+      <img alt="Área" src="https://img.shields.io/badge/%C3%81rea-Tecnologia%20%26%20Educa%C3%A7%C3%A3o-2EA043?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
